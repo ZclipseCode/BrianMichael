@@ -32,7 +32,7 @@
     --theme-blue: #2960f7;
     --theme-green: #8cc63f;
     --theme-orange: #fd7e14;
-    --theme-purple: #6f42c1;
+    --theme-purple: #5a49e3;
 }
 
 /* Light */
@@ -136,19 +136,19 @@ a:hover, a:active {
     margin: 5px;
     height: unset;
     background-color: #747474;
-    color: #fff;
+    color: #efefef;
     font-weight: 500;
     border-radius: 6px;
-    box-shadow: 0 0 0 2px #fff, 0 3px 9px rgba(0,0,0,0.3);
+    box-shadow: 0 0 0 2px #efefef, 0 3px 9px rgba(0,0,0,0.3);
 }
 
 .btn-theme:hover, .btn-theme:active {
     background-color: #808080;
-    color: #fff;
+    color: #efefef;
 }
 
 .btn-theme:focus {
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #747474;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #747474;
 }
 
 .btn-theme.no-shadow {
@@ -168,13 +168,13 @@ a:hover, a:active {
 
 .btn-theme-outline:hover {
     background-color: #747474;
-    color: #fff;
+    color: #efefef;
 }
 
 .btn-theme-outline:focus {
     background-color: #747474;
-    color: #fff;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #747474;
+    color: #efefef;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #747474;
 }
 
 .btn-rounded {
@@ -224,7 +224,7 @@ a:hover, a:active {
     text-decoration: none;
     line-height: 35px;
     font-size: 12px;
-    background-color: #fff;
+    background-color: #efefef;
     color: #888;
     border: 1px solid #ddd;
     -webkit-transition: all .3s;
@@ -234,7 +234,7 @@ a:hover, a:active {
 
 .social .social-link:hover {
     background-color: #ddd;
-    color: #fff;
+    color: #efefef;
     border-color: transparent;
 }
 
@@ -250,7 +250,7 @@ a:hover, a:active {
     font-size: 18px;
     border-radius: 50%;
     background-color: #52565c;
-    color: #fff;
+    color: #efefef;
     visibility: hidden;
     cursor: pointer;
     box-shadow: 0 3px 9px rgba(0, 0, 0, 0.4);
@@ -278,7 +278,7 @@ a:hover, a:active {
     float: left;
     margin: 0 !important;
     padding: 5px;
-    background-color: #fff;
+    background-color: #efefef;
     border-radius: 12px 0 0 12px;
     box-shadow: -3px 2px 9px rgba(50, 50, 50, 0.2);
 }
@@ -323,7 +323,7 @@ a:hover, a:active {
     display: inline-block;
     margin: 0 !important;
     padding: 10px 15px;
-    background-color: #fff;
+    background-color: #efefef;
     box-shadow: 2px 2px 4px rgba(50, 50, 50, 0.2);
 }
 
@@ -353,7 +353,7 @@ a:hover, a:active {
 }
 
 .bg-theme-purple {
-    background-color: #6f42c1 !important;
+    background-color: #5a49e3 !important;
 }
 
 .fg-theme-red {
@@ -373,7 +373,7 @@ a:hover, a:active {
 }
 
 .fg-theme-purple {
-    color: #6f42c1 !important;
+    color: #5a49e3 !important;
 }
 
 .fg-dark {
@@ -381,7 +381,7 @@ a:hover, a:active {
 }
 
 .fg-white {
-    color: #fff !important;
+    color: #efefef !important;
 }
 
 /* Social Color */
@@ -443,7 +443,7 @@ a:hover, a:active {
 
 .bg-snapchat,
 .bg-hover-snapchat:hover {
-    background-color: #FFFC00 !important;
+    background-color: #efefef !important;
 }
 
 .bg-tumblr,
@@ -471,8 +471,8 @@ a:hover, a:active {
 .progress {
     margin-top: 5px;
     height: 1.25rem;
-    border: 2px solid #fff;
-    background-color: #fff;
+    border: 2px solid #efefef;
+    background-color: #efefef;
     box-shadow: 0 0 0 2px #747474;
 }
 
@@ -499,7 +499,7 @@ a:hover, a:active {
 
 .page-item.active .page-link {
     background-color: #52565c;
-    color: #fff;
+    color: #efefef;
 }
 
 .page-link {
@@ -554,7 +554,7 @@ a:hover, a:active {
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    background-color: #fff;
+    background-color: #efefef;
     border: 2px solid #888;
 }
 
@@ -773,7 +773,7 @@ a:hover, a:active {
     border-radius: 50%;
     text-align: center;
     background-color: #acacac;
-    color: #fff;
+    color: #efefef;
 }
 
 .owl-header .time {
@@ -788,7 +788,7 @@ a:hover, a:active {
     margin: auto;
     width: 30px;height: 30px;
     border-radius: 50%;
-    background-color: #fff !important;
+    background-color: #efefef !important;
     outline: none !important;
     box-shadow: 0 2px 5px rgba(0,0,0,0.5);
     opacity: 0;
@@ -820,7 +820,7 @@ a:hover, a:active {
     width: 100%;height: 50px;
     line-height: 50px;
     text-align: center;
-    background: #fff;
+    background: #efefef;
 }
 
 .owl-dots .owl-dot {
@@ -1085,7 +1085,7 @@ a:hover, a:active {
     padding: 12px 16px;
     width: 100%;
     background-color: #323131;
-    color: #fff;
+    color: #efefef;
     z-index: 11;
 }
 
@@ -1127,16 +1127,16 @@ a:hover, a:active {
 
 .theme-red .btn-theme {
     background-color: #EF3724;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-red .btn-theme:hover {
     background-color: #F04936;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-red .btn-theme:focus {
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #EF3724;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #EF3724;
 }
 
 .theme-red .btn-theme-outline {
@@ -1146,23 +1146,23 @@ a:hover, a:active {
 
 .theme-red .btn-theme-outline:hover {
     background-color: #EF3724;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-red .btn-theme-outline:focus {
     background-color: #EF3724;
-    color: #fff;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #EF3724;
+    color: #efefef;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #EF3724;
 }
 
 .theme-red .btn-fab {
     background-color: #EF3724;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-red .btn-fab:hover {
     background-color: #F04936;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-red .progress {
@@ -1189,16 +1189,16 @@ a:hover, a:active {
 
 .theme-blue .btn-theme {
     background-color: #2960f7;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-blue .btn-theme:hover {
     background-color: #3f71f8;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-blue .btn-theme:focus {
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #2960f7;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #2960f7;
 }
 
 .theme-blue .btn-theme-outline {
@@ -1208,23 +1208,23 @@ a:hover, a:active {
 
 .theme-blue .btn-theme-outline:hover {
     background-color: #2960f7;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-blue .btn-theme-outline:focus {
     background-color: #2960f7;
-    color: #fff;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #2960f7;
+    color: #efefef;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #2960f7;
 }
 
 .theme-blue .btn-fab {
     background-color: #2960f7;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-blue .btn-fab:hover {
     background-color: #3f71f8;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-blue .progress {
@@ -1251,16 +1251,16 @@ a:hover, a:active {
 
 .theme-green .btn-theme {
     background-color: #8cc63f;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-green .btn-theme:hover {
     background-color: #94c751;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-green .btn-theme:focus {
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #8cc63f;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #8cc63f;
 }
 
 .theme-green .btn-theme-outline {
@@ -1270,23 +1270,23 @@ a:hover, a:active {
 
 .theme-green .btn-theme-outline:hover {
     background-color: #8cc63f;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-green .btn-theme-outline:focus {
     background-color: #8cc63f;
-    color: #fff;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #8cc63f;
+    color: #efefef;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #8cc63f;
 }
 
 .theme-green .btn-fab {
     background-color: #8cc63f;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-green .btn-fab:hover {
     background-color: #94c751;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-green .progress {
@@ -1313,16 +1313,16 @@ a:hover, a:active {
 
 .theme-orange .btn-theme {
     background-color: #fd7e14;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-orange .btn-theme:hover {
     background-color: #fd8a2c;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-orange .btn-theme:focus {
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #fd7e14;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #fd7e14;
 }
 
 .theme-orange .btn-theme-outline {
@@ -1332,23 +1332,23 @@ a:hover, a:active {
 
 .theme-orange .btn-theme-outline:hover {
     background-color: #fd7e14;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-orange .btn-theme-outline:focus {
     background-color: #fd7e14;
-    color: #fff;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #fd7e14;
+    color: #efefef;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #fd7e14;
 }
 
 .theme-orange .btn-fab {
     background-color: #fd7e14;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-orange .btn-fab:hover {
     background-color: #fd8a2c;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-orange .progress {
@@ -1366,61 +1366,61 @@ a:hover, a:active {
 
 /* Theme Purple */
 .theme-purple .bg-theme {
-    background-color: #6f42c1 !important;
+    background-color: #5a49e3 !important;
 }
 
 .theme-purple .fg-theme {
-    color: #6f42c1 !important;
+    color: #5a49e3 !important;
 }
 
 .theme-purple .btn-theme {
-    background-color: #6f42c1;
-    color: #fff;
+    background-color: #5a49e3;
+    color: #efefef;
 }
 
 .theme-purple .btn-theme:hover {
     background-color: #7b54c2;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-purple .btn-theme:focus {
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #6f42c1;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #5a49e3;
 }
 
 .theme-purple .btn-theme-outline {
-    color: #6f42c1;
-    box-shadow: 0 0 0 2px #6f42c1;
+    color: #5a49e3;
+    box-shadow: 0 0 0 2px #5a49e3;
 }
 
 .theme-purple .btn-theme-outline:hover {
-    background-color: #6f42c1;
-    color: #fff;
+    background-color: #5a49e3;
+    color: #efefef;
 }
 
 .theme-purple .btn-theme-outline:focus {
-    background-color: #6f42c1;
-    color: #fff;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #6f42c1;
+    background-color: #5a49e3;
+    color: #efefef;
+    box-shadow: 0 0 0 3px #efefef, 0 0 0 5px #5a49e3;
 }
 
 .theme-purple .btn-fab {
-    background-color: #6f42c1;
-    color: #fff;
+    background-color: #5a49e3;
+    color: #efefef;
 }
 
 .theme-purple .btn-fab:hover {
     background-color: #7b54c2;
-    color: #fff;
+    color: #efefef;
 }
 
 .theme-purple .progress {
-    box-shadow: 0 0 0 2px #6f42c1;
+    box-shadow: 0 0 0 2px #5a49e3;
 }
 
 .theme-purple .progress-bar {
-    background-color: #6f42c1;
+    background-color: #5a49e3;
 }
 
 .theme-purple .theme-list li::before {
-    border-color: #6f42c1;
+    border-color: #5a49e3;
 }
